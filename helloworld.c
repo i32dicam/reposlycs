@@ -1,5 +1,5 @@
 /*autor: Miguel Ángel Diaz Camacho
-fecha: 24-Mayo-2023*/
+fecha: 24-mayo-2023*/
 
 #include "./include/myinclude.h"
 int main() {
